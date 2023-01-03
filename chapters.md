@@ -8,20 +8,20 @@ WELCOME TO MASTERING CKB
 
 Design Rationale <br>
 Data Structures <br>
- Block, Transaction, etc.
- Serialization
-Consensus
- NC-MAX
- Synchronization (Tentacle)
- Eaglesong
-Cell Model
- Generation/Verification
- Type Scripts
- Lock Scripts
- CKB "Addresses"
-CKB VM
- Instruction sets
- Syscalls
-Economics
- DAO Issuance calculation
-Soft Fork Activation
+ Block, Transaction, etc.<br>
+ Serialization<br>
+Consensus<br>
+ NC-MAX<br>
+ Synchronization (Tentacle)<br>
+ Eaglesong<br>
+Cell Model<br>
+ Generation/Verification<br>
+ Type Scripts<br>
+ Lock Scripts<br>
+ CKB "Addresses"<br>
+CKB VM<br>
+ Instruction sets<br>
+ Syscalls<br>
+Economics<br>
+ DAO Issuance calculation<br>
+Soft Fork Activation<br>
