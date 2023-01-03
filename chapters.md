@@ -8,8 +8,8 @@ WELCOME TO MASTERING CKB
 
 Design Rationale <br>
 Data Structures <br>
- Block, Transaction, etc.<br>
- Serialization<br>
+  Block, Transaction, etc.<br>
+  Serialization<br>
 Consensus<br>
  NC-MAX<br>
  Synchronization (Tentacle)<br>
