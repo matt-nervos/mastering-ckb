@@ -6,8 +6,8 @@ WELCOME TO MASTERING CKB
 
 (no order)
 
-Design Rationale
-Data Structures
+Design Rationale <br>
+Data Structures <br>
  Block, Transaction, etc.
  Serialization
 Consensus
